@@ -68,6 +68,7 @@ int var1 = 23;
 int var2 = 17;
 
  float var3 = 30;
+ int var4 = 45;
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
