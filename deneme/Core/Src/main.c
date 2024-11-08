@@ -66,6 +66,7 @@ int main(void)
   /* USER CODE BEGIN 1 */
 int var1 = 23;
 int var2 = 17;
+ float var3 = 27;
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
